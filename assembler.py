@@ -157,8 +157,4 @@ for i in readf:
 
         out = conv_inst + "0" + "0" + conv_target
         print(out)
-        writef.write(out+"\n") 
-        
-
-
-    
+        writef.write(out+"\n")
