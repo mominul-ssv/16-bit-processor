@@ -1,0 +1,3 @@
+addi $r0 $r0 2
+addi $r2 $r2 3
+sll $r1 $r0 $r2
